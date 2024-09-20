@@ -112,8 +112,3 @@ boosting_score = boosting_model.score(X_test, y_test)
 - **AdaBoost Accuracy:** The AdaBoost model achieves an accuracy of around `X.XX` (replace with your score) on the test set.
 - **Feature Importance:** Visualization shows which features contribute the most to classification.
 - **PCA:** The dataset is visualized in 2D space using PCA, allowing for exploratory data analysis.
-
----
-
-
-Feel free to modify the content as per your specific project details!

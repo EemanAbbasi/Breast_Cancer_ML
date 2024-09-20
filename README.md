@@ -87,7 +87,7 @@ plt.scatter(X_pca[:, 0], X_pca[:, 1], c=y, cmap='coolwarm', edgecolor='k')
 
 Here is an example PCA plot:
 
-![PCA Plot](pca_breast_cancer.png)
+![PCA Plot](https://github.com/EemanAbbasi/Breast_Cancer_ML/blob/main/breast_PCA.png)
 
 ### 5. Recursive Feature Elimination (RFE)
 

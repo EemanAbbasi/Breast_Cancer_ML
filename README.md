@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for your code, which includes descriptions of the model-building process and figures:
-
----
-
 # Breast Cancer Classification with Machine Learning
 
 This project applies various machine learning techniques to the Breast Cancer Wisconsin dataset to classify whether a tumor is malignant or benign. Techniques used include Random Forest, AdaBoost, PCA (Principal Component Analysis), and Recursive Feature Elimination (RFE).
@@ -73,7 +69,7 @@ plt.title('Feature Importances for Breast Cancer Dataset')
 
 Here is an example plot showing the feature importances:
 
-![Feature Importance](feature_importance_breast_cancer.png)
+![Feature Importance](https://github.com/EemanAbbasi/Breast_Cancer_ML/blob/main/feature_Breast.png)
 
 ### 4. Principal Component Analysis (PCA)
 
@@ -119,34 +115,5 @@ boosting_score = boosting_model.score(X_test, y_test)
 
 ---
 
-## Figures
-
-- **Feature Importances:**
-
-  ![Feature Importance](feature_importance_breast_cancer.png)
-
-- **PCA Scatter Plot:**
-
-  ![PCA Plot](pca_breast_cancer.png)
-
----
-
-## How to Run
-
-1. Clone the repository.
-2. Ensure all dependencies are installed.
-3. Run the Python script `breast_cancer_classification.py`:
-
-```bash
-python breast_cancer_classification.py
-```
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
 
 Feel free to modify the content as per your specific project details!
